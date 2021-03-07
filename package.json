@@ -1,7 +1,10 @@
 {
   "name": "nodesitewin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NodeSite.eu for Windows npx",
+  "bin": {
+    "nodesitewin": "./nodesitewin.js"
+  },
   "main": "nodesitewin.js",
   "scripts": {
     "test": "node nodesitewin.js test"
