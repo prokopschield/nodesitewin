@@ -1,6 +1,6 @@
 {
   "name": "nodesitewin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeSite.eu for Windows npx",
   "main": "nodesitewin.js",
   "scripts": {
