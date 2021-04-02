@@ -1,29 +1,29 @@
 {
-  "name": "nodesitewin",
-  "version": "1.0.2",
-  "description": "NodeSite.eu for Windows npx",
-  "bin": {
-    "nodesitewin": "./nodesitewin.js"
-  },
-  "main": "nodesitewin.js",
-  "scripts": {
-    "test": "node nodesitewin.js test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prokopschield/nodesitewin.git"
-  },
-  "keywords": [
-    "nodesite",
-    "nodesite.eu"
-  ],
-  "author": "Prokop Schield",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prokopschield/nodesitewin/issues"
-  },
-  "homepage": "https://github.com/prokopschield/nodesitewin#readme",
-  "dependencies": {
-    "nodesite.eu": ">=1.0.16"
-  }
+	"name": "nodesitewin",
+	"version": "1.0.18",
+	"description": "NodeSite.eu for Windows npx",
+	"bin": {
+		"nodesitewin": "./nodesitewin.js"
+	},
+	"main": "nodesitewin.js",
+	"scripts": {
+		"test": "node nodesitewin.js test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/prokopschield/nodesitewin.git"
+	},
+	"keywords": [
+		"nodesite",
+		"nodesite.eu"
+	],
+	"author": "Prokop Schield",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/prokopschield/nodesitewin/issues"
+	},
+	"homepage": "https://github.com/prokopschield/nodesitewin#readme",
+	"dependencies": {
+		"nodesite.eu": ">=1.0.16"
+	}
 }
